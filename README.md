@@ -68,5 +68,5 @@ All analysis was performed using Excel and Power BI, without Python or external 
 
 ---
 
-Would you like help formatting your Excel file or generating sample visuals for your dashboard? I can also help you build a mock-up of your Power BI report layout.
+
 
