@@ -1,5 +1,5 @@
-Hi, I'm Kayode Adekeye
-I'm interested in Data Analysis, Visualisation and Statistical Analysis
+Hi, I'm Kayode Adekeye, a data analysis with a solid backgroung in Accounting,and professionally trained in Data analysis from Citadel of Digital Skill Academy Ltd. I specialize in transforming complex datasets into actionable insights using Excel, Power BI, and Power Query.
+I'm passionate about data-driven decision-making, reporting automation, and leveraging analytics to enhance operational efficiency and business performance.
 You can reach me on adeolakay02@gmail.com
 https://www.linkedin.com/in/kayode-adekeye-36618971
 https://www.trustpilot.com/users/68f7bebba9dcb04c98fed033
