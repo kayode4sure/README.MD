@@ -2,7 +2,7 @@ Hi, I'm Kayode Adekeye, a data analysis with a solid backgroung in Accounting,an
 I'm passionate about data-driven decision-making, reporting automation, and leveraging analytics to enhance operational efficiency and business performance.
 You can reach me on adeolakay02@gmail.com
 https://www.linkedin.com/in/kayode-adekeye-36618971
-https://www.trustpilot.com/users/68f7bebba9dcb04c98fed033
+https://www.datascienceportfol.io/adeolakay02
 Here's a polished and structured README draft for your retail store inventory data analysis project using Excel and Power BI:
 
 ---
