@@ -9,6 +9,8 @@ Here's a polished and structured README draft for your retail store inventory da
 
 # 🛍️ Retail Store Inventory Data Analysis (Excel-Based)
 
+https://github.com/kayode4sure/README.MD/issues/3
+
 ## 📌 Introduction
 In this project, I analyzed retail store inventory data to uncover patterns in product performance, stock efficiency, and supplier reliability. Using Excel and Power BI, I tracked key metrics such as:
 
