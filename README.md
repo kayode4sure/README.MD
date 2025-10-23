@@ -1,9 +1,11 @@
 Hi, I'm Kayode Adekeye, An Accountant,a data analyst and freelancer with a solid background in Accounting, professionally trained in Data analysis from Citadel of Digital Skill Academy Ltd. I specialize in transforming complex datasets into actionable insights using Excel, Power BI, and Power Query.
 I'm passionate about data-driven decision-making, reporting automation, and leveraging analytics to enhance operational efficiency and business performance.
+Here's a polished and structured README draft for your retail store inventory data analysis project using Excel and Power BI:
+
 You can reach me via adeolakay02@gmail.com
 https://www.linkedin.com/in/kayode-adekeye-36618971
 https://www.datascienceportfol.io/adeolakay02
-Here's a polished and structured README draft for your retail store inventory data analysis project using Excel and Power BI:
+
 
 ---
 
